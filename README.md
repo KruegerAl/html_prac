@@ -14,14 +14,14 @@
 
 ### Zuhause
 1. Öffne `Visual studio code`
-2. Auf der linken seite, click auf dieses icon ![scm](scm_icon.png)
-3. Oben auf der linken bildhälfte, click auf die drei punkte ![more actions](more_actions.png)
+2. Auf der linken seite, click auf dieses icon ![scm](scm_icon.png =50x)
+3. Oben auf der linken bildhälfte, click auf die drei punkte ![more actions](more_actions.png =50x)
 4. Select `Pull`
 5. Geh zu ![files](files.png)
 6. Arbeite an deinen files
-7. Geh wieder zu ![scm](scm_icon.png) und click auf den checkmark ![commit](commit.png)
+7. Geh wieder zu ![scm](scm_icon.png) und click auf den checkmark ![commit](commit.png =50x)
 8. Gib eine message ein und `Enter`
-Geh wieder zu ![more actions](more_actions.png)
+Geh wieder zu ![more actions](more_actions.png =50x)
 9. Select `Push`
 
 ### Enjoy
